@@ -1,0 +1,38 @@
+html, body {
+  background-color: #DEB887;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 800px;
+}
+
+.card{
+  background-color:#FFEBCD;
+  height: 400px;
+  border: 2px solid black;
+  border-radius: 25px;
+}
+
+.img{
+  width: 300px;
+  border-radius: 25px;
+}
+
+.titulo{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 7px;
+  margin-top: 7px;
+}
+
+.informacoes{
+  display: flex;
+  justify-content: space-between;
+  margin: 7px;
+}
+
+.info{
+  margin: 7px;
+}
